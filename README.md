@@ -1,4 +1,4 @@
-# flutter_app_widgets_base
+# flutter_app_widgets_image
 
 A new Flutter project.
 
